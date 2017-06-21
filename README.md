@@ -7,6 +7,8 @@ SSLContext should be usable as a drop in replacement for applications that are c
 This code was originally based on the Tomcat Native code, however it has been fairly extensively modified to more closely
 align with JSSE and to support dynamic linking.
 
+* [![Windows Build Status](https://ci.modcluster.io/job/wildfly-openssl-windows/badge/icon?style=plastic)](https://ci.modcluster.io/job/wildfly-openssl-windows/)
+
 Usage
 =====
 
