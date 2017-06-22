@@ -8,6 +8,7 @@ This code was originally based on the Tomcat Native code, however it has been fa
 align with JSSE and to support dynamic linking.
 
 * [![Build Status](https://ci.modcluster.io/buildStatus/icon?job=wildfly-openssl-windows)](https://ci.modcluster.io/job/wildfly-openssl-windows/)
+![Bilby Stampede](https://ci.modcluster.io/buildStatus/icon?job=wildfly-openssl-windows)
 
 
 Usage
